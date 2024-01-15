@@ -1,3 +1,14 @@
 {
-
+  "General": {
+    "G1": "General Rule 1",
+    "G2": "General Rule 2"
+  },
+  "VoiceChat": {
+    "V1": "Voice Chat Rule 1",
+    "V2": "Voice Chat Rule 2"
+  },
+  "TextChat": {
+    "T1": "Text Chat Rule 1",
+    "T2": "Text Chat Rule 2"
+  }
 }
