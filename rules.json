@@ -1,14 +1,32 @@
 {
-  "General": {
-    "G1": "General Rule 1",
-    "G2": "General Rule 2"
-  },
-  "VoiceChat": {
-    "V1": "Voice Chat Rule 1",
-    "V2": "Voice Chat Rule 2"
-  },
-  "TextChat": {
-    "T1": "Text Chat Rule 1",
-    "T2": "Text Chat Rule 2"
-  }
+  "General": [
+    {
+      "Code": "G1",
+      "Rule": "General Rule 1"
+    },
+    {
+      "Code": "G2",
+      "Rule": "General Rule 2"
+    }
+  ],
+  "VoiceChat": [
+    {
+      "Code": "V1",
+      "Rule": "Voice Chat Rule 1"
+    },
+    {
+      "Code": "V2",
+      "Rule": "Voice Chat Rule 2"
+    }
+  ],
+  "TextChat": [
+    {
+      "Code": "T1",
+      "Rule": "Text Chat Rule 1"
+    },
+    {
+      "Code": "T2",
+      "Rule": "Text Chat Rule 2"
+    }
+  ]
 }
