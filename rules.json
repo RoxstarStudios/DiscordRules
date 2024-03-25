@@ -2,31 +2,67 @@
   "General": [
     {
       "Code": "G1",
-      "Rule": "General Rule 1"
+      "Rule": "Respect all members of the community. Treat others with kindness and consideration."
     },
     {
       "Code": "G2",
-      "Rule": "General Rule 2"
+      "Rule": "Do not engage in any form of harassment, discrimination, or hate speech."
+    },
+    {
+      "Code": "G3",
+      "Rule": "Keep discussions relevant to the channels they are in. Use appropriate channels for topics."
+    },
+    {
+      "Code": "G4",
+      "Rule": "Do not share illegal or pirated content."
+    },
+    {
+      "Code": "G5",
+      "Rule": "Do not distribute community resources without proper authorization."
+    },
+    {
+      "Code": "G6",
+      "Rule": "Follow Discord's Terms of Service and Community Guidelines at all times."
     }
   ],
   "VoiceChat": [
     {
       "Code": "V1",
-      "Rule": "Voice Chat Rule 1"
+      "Rule": "Use push-to-talk if your microphone picks up background noise."
     },
     {
       "Code": "V2",
-      "Rule": "Voice Chat Rule 2"
+      "Rule": "Do not excessively disrupt voice channels. Let others have their conversations."
+    },
+    {
+      "Code": "V3",
+      "Rule": "Do not play loud or disruptive music without the consent of everyone in the voice channel."
+    },
+    {
+      "Code": "V4",
+      "Rule": "Do not use voice changers or soundboards in a way that disrupts conversation."
     }
   ],
   "TextChat": [
     {
       "Code": "T1",
-      "Rule": "Text Chat Rule 1"
+      "Rule": "Do not spam text channels. Avoid excessive use of emojis, caps lock, or repeated messages."
     },
     {
       "Code": "T2",
-      "Rule": "Text Chat Rule 2"
+      "Rule": "Refrain from discussing sensitive or NSFW topics in public text channels. Use appropriate channels for such discussions."
+    },
+    {
+      "Code": "T3",
+      "Rule": "Do not share personal information or sensitive data in text channels."
+    },
+    {
+      "Code": "T4",
+      "Rule": "Be mindful of spoilers. Use spoiler tags when discussing plot details or endings of recently released content."
+    },
+    {
+      "Code": "T5",
+      "Rule": "Do not engage in heated arguments or flame wars. Respect differing opinions and handle disagreements maturely."
     }
   ]
 }
